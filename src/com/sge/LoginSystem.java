@@ -1,4 +1,4 @@
-package com.firstexercise;
+package com.sge;
 
 import java.util.HashMap;
 import java.util.Map;
